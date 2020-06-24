@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/openid-certification/oidctest.svg?branch=master)](https://travis-ci.org/openid-certification/oidctest)
 
+NOTE: THE CERTIFICATION TEST SUITE IS MIGRATING TO A NEW SERVICE https://openid.net/certification/migration
+
 OIDC test tool
 ==============
 
